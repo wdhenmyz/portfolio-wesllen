@@ -12,7 +12,7 @@ body {
 #menu {
     width: 15%;
     height: 100%;
-    background-color: rgba(0, 255, 255, 0.301);
+    background: linear-gradient(to top,#b1f2f7, #abd0f3, #f4c6fd);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -35,7 +35,7 @@ a{
     width: 85%;
     height: 100%;
     background-image: url(fundo.jpg);
-    background-size: contain;
+    background-size: cover;
     overflow-x: hidden;
     display: flex;
     flex-direction: column;
