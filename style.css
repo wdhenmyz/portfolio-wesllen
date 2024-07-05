@@ -18,6 +18,11 @@ body {
     align-items: center;
 }
 
+a{
+    text-decoration: none;
+    color: black;
+}
+
 #foto {
     border:solid black;
     margin-top: 20px;
