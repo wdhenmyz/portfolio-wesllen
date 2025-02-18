@@ -34,7 +34,7 @@ a{
 #informacoes {
     width: 85%;
     height: 100%;
-    background-image: url(fundo.jpg);
+    background-image: url(../assets/fundo.jpg);
     background-size: cover;
     overflow-x: hidden;
     display: flex;
@@ -49,6 +49,13 @@ a{
     background-color: rgba(76, 0, 253, 0.322);
     display: flex;
     align-items: center;
+}
+
+.infodiv {
+    background-color: azure; 
+    border: solid rgba(255, 0, 0, 0); 
+    width: 80%;
+    border-radius: 5px;
 }
 
 h1 {
